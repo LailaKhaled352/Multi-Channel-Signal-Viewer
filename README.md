@@ -47,7 +47,7 @@ Matplotlib
 ## Usage
 Clone the repo
 ```python
-git clone https://github.com/YoussefHassanien/Signal-Viewer.git
+git clone https://github.com/LailaKhaled352/Multi-Channel-Signal-Viewer.git
 ```
 
 Install the following libraries
